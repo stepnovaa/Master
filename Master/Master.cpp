@@ -65,6 +65,7 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		cout << books[i].year << " " << books[i].author << " " << books[i].title<<endl;
 	}
+	cout << "hello";
 }
 
 
